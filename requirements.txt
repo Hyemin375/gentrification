@@ -1,6 +1,5 @@
 streamlit
 pandas
-matplotlib
+matplotlib==3.7.2
 altair
-wordcloud
 python-dateutil
